@@ -157,48 +157,11 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx224/proprietary/vendor/camera/default.dat:$(TARGET_COPY_OUT_VENDOR)/camera/default.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/depth.dat:$(TARGET_COPY_OUT_VENDOR)/camera/depth.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/display_ctrl.dat:$(TARGET_COPY_OUT_VENDOR)/camera/display_ctrl.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_animal_eye_detector.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_animal_eye_detector.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_autoexposure.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_autoexposure.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_autowhitebalance.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_autowhitebalance.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_depth_measurement.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_depth_measurement.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_face_detector.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_face_detector.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_main_subject_detector.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_main_subject_detector.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_object_detector.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_object_detector.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_00.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_00.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_01.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_01.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_02.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_02.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_03.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_03.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_04.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_04.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_05.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_05.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_06.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_06.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_07.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_07.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_08.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_08.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_09.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_09.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_10.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_10.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_11.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_11.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_12.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_12.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_13.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_13.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_14.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_14.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_15.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_15.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_16.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_16.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_17.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_17.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_18.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_18.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_19.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_19.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_20.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_20.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_21.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_21.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_22.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_22.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/file_zunda_23.dat:$(TARGET_COPY_OUT_VENDOR)/camera/file_zunda_23.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/flash.dat:$(TARGET_COPY_OUT_VENDOR)/camera/flash.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/ois_correction_coefficient_imx557.dat:$(TARGET_COPY_OUT_VENDOR)/camera/ois_correction_coefficient_imx557.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/ois_correction_coefficient_imx650.dat:$(TARGET_COPY_OUT_VENDOR)/camera/ois_correction_coefficient_imx650.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/optical_axis.dat:$(TARGET_COPY_OUT_VENDOR)/camera/optical_axis.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/snapshot.dat:$(TARGET_COPY_OUT_VENDOR)/camera/snapshot.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/streaming.dat:$(TARGET_COPY_OUT_VENDOR)/camera/streaming.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/supported.dat:$(TARGET_COPY_OUT_VENDOR)/camera/supported.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/version.dat:$(TARGET_COPY_OUT_VENDOR)/camera/version.dat \
-    vendor/sony/pdx224/proprietary/vendor/etc/camera/camxoverridesettings.txt:$(TARGET_COPY_OUT_VENDOR)/etc/camera/camxoverridesettings.txt \
-    vendor/sony/pdx224/proprietary/vendor/etc/display/backlight_calib_r66451_amoled_cmd_mode_dsi_visionox_panel_with_DSC.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display/backlight_calib_r66451_amoled_cmd_mode_dsi_visionox_panel_with_DSC.xml \
-    vendor/sony/pdx224/proprietary/vendor/etc/display/backlight_calib_r66451_amoled_video_mode_dsi_visionox_panel_with_DSC.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display/backlight_calib_r66451_amoled_video_mode_dsi_visionox_panel_with_DSC.xml \
     vendor/sony/pdx224/proprietary/vendor/etc/display/qdcm_calib_data_3.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_3.json \
     vendor/sony/pdx224/proprietary/vendor/etc/display/qdcm_calib_data_Sharp_2k_cmd_mode_qsync_dsi_panel.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_Sharp_2k_cmd_mode_qsync_dsi_panel.json \
     vendor/sony/pdx224/proprietary/vendor/etc/display/qdcm_calib_data_Sharp_2k_video_mode_qsync_dsi_panel.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_Sharp_2k_video_mode_qsync_dsi_panel.json \
@@ -212,16 +175,10 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx224/proprietary/vendor/etc/display/qdcm_calib_data_r66451_amoled_video_mode_dsi_visionox_panel_with_DSC.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_r66451_amoled_video_mode_dsi_visionox_panel_with_DSC.json \
     vendor/sony/pdx224/proprietary/vendor/etc/display/qdcm_calib_data_r66451_amoled_video_mode_dsi_visionox_panel_without_DSC.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_r66451_amoled_video_mode_dsi_visionox_panel_without_DSC.json \
     vendor/sony/pdx224/proprietary/vendor/etc/display/qdcm_calib_data_sharp_1080p_cmd_mode_dsi_panel.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_sharp_1080p_cmd_mode_dsi_panel.json \
-    vendor/sony/pdx224/proprietary/vendor/etc/display/thermallevel_to_fps.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display/thermallevel_to_fps.xml \
-    vendor/sony/pdx224/proprietary/vendor/etc/init/vendor.somc.hardware.camera.provider@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.somc.hardware.camera.provider@1.0-service.rc \
     vendor/sony/pdx224/proprietary/vendor/etc/libhdr_somc.xml:$(TARGET_COPY_OUT_VENDOR)/etc/libhdr_somc.xml \
-    vendor/sony/pdx224/proprietary/vendor/etc/sensors/config/waipio_ak991x_0_somc_platform.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/waipio_ak991x_0_somc_platform.json \
     vendor/sony/pdx224/proprietary/vendor/etc/sensors/config/waipio_ak991x_0_somc_product.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/waipio_ak991x_0_somc_product.json \
-    vendor/sony/pdx224/proprietary/vendor/etc/sensors/config/waipio_lsm6dso_0_somc_product.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/waipio_lsm6dso_0_somc_product.json \
-    vendor/sony/pdx224/proprietary/vendor/etc/sensors/config/waipio_somc_default_sensors.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/waipio_somc_default_sensors.json \
     vendor/sony/pdx224/proprietary/vendor/etc/wifi/bdwlan.e8d:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bdwlan.e8d \
     vendor/sony/pdx224/proprietary/vendor/etc/wifi/bdwlang.e8d:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bdwlang.e8d \
-    vendor/sony/pdx224/proprietary/vendor/etc/wifi/regdb.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/regdb.bin \
     vendor/sony/pdx224/proprietary/vendor/etc/wifi/wifi_txpower.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/wifi_txpower.conf \
     vendor/sony/pdx224/proprietary/vendor/etc/zoom_noise_reduction/znr_Front_44k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_Front_44k.tbl \
     vendor/sony/pdx224/proprietary/vendor/etc/zoom_noise_reduction/znr_Front_48k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_Front_48k.tbl \
@@ -270,27 +227,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx224/proprietary/vendor/firmware/R-cs35l41-dsp1-spk-cali.wmfw:$(TARGET_COPY_OUT_VENDOR)/firmware/R-cs35l41-dsp1-spk-cali.wmfw \
     vendor/sony/pdx224/proprietary/vendor/firmware/R-cs35l41-dsp1-spk-prot.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/R-cs35l41-dsp1-spk-prot.bin \
     vendor/sony/pdx224/proprietary/vendor/firmware/R-cs35l41-dsp1-spk-prot.wmfw:$(TARGET_COPY_OUT_VENDOR)/firmware/R-cs35l41-dsp1-spk-prot.wmfw \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a610_zap.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a610_zap.b00 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a610_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a610_zap.b01 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a610_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a610_zap.b02 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a610_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a610_zap.elf \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a610_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a610_zap.mdt \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a630_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a630_sqe.fw \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a660_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a660_sqe.fw \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a662_gmu.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/a662_gmu.bin \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a662_zap.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a662_zap.b00 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a662_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a662_zap.b01 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a662_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a662_zap.b02 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a662_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a662_zap.elf \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a662_zap.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/a662_zap.mbn \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a662_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a662_zap.mdt \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a710_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a710_sqe.fw \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a710_zap.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a710_zap.b00 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a710_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a710_zap.b01 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a710_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a710_zap.b02 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a710_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a710_zap.elf \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a710_zap.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/a710_zap.mbn \
-    vendor/sony/pdx224/proprietary/vendor/firmware/a710_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a710_zap.mdt \
     vendor/sony/pdx224/proprietary/vendor/firmware/a730_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a730_sqe.fw \
     vendor/sony/pdx224/proprietary/vendor/firmware/a730_zap.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a730_zap.b00 \
     vendor/sony/pdx224/proprietary/vendor/firmware/a730_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a730_zap.b01 \
@@ -298,113 +234,19 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx224/proprietary/vendor/firmware/a730_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a730_zap.elf \
     vendor/sony/pdx224/proprietary/vendor/firmware/a730_zap.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/a730_zap.mbn \
     vendor/sony/pdx224/proprietary/vendor/firmware/a730_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a730_zap.mdt \
-    vendor/sony/pdx224/proprietary/vendor/firmware/cs40l20.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cs40l20.bin \
-    vendor/sony/pdx224/proprietary/vendor/firmware/cs40l25a_a2h.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cs40l25a_a2h.bin \
-    vendor/sony/pdx224/proprietary/vendor/firmware/cs40l25a_a2h.wmfw:$(TARGET_COPY_OUT_VENDOR)/firmware/cs40l25a_a2h.wmfw \
-    vendor/sony/pdx224/proprietary/vendor/firmware/cs40l25a_a2h1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cs40l25a_a2h1.bin \
-    vendor/sony/pdx224/proprietary/vendor/firmware/cs40l25a_a2h2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cs40l25a_a2h2.bin \
-    vendor/sony/pdx224/proprietary/vendor/firmware/cs40l25a_a2h3.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cs40l25a_a2h3.bin \
-    vendor/sony/pdx224/proprietary/vendor/firmware/cs40l25a_cal.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cs40l25a_cal.bin \
-    vendor/sony/pdx224/proprietary/vendor/firmware/cs40l25a_cal.wmfw:$(TARGET_COPY_OUT_VENDOR)/firmware/cs40l25a_cal.wmfw \
-    vendor/sony/pdx224/proprietary/vendor/firmware/egista64.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/egista64.b00 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/egista64.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/egista64.b01 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/egista64.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/egista64.b02 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/egista64.b03:$(TARGET_COPY_OUT_VENDOR)/firmware/egista64.b03 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/egista64.b04:$(TARGET_COPY_OUT_VENDOR)/firmware/egista64.b04 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/egista64.b05:$(TARGET_COPY_OUT_VENDOR)/firmware/egista64.b05 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/egista64.b06:$(TARGET_COPY_OUT_VENDOR)/firmware/egista64.b06 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/egista64.b07:$(TARGET_COPY_OUT_VENDOR)/firmware/egista64.b07 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/egista64.b08:$(TARGET_COPY_OUT_VENDOR)/firmware/egista64.b08 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/egista64.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/egista64.mdt \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b00 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b01 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b02 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b03:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b03 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b04:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b04 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b05:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b05 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b06:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b06 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b07:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b07 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b08:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b08 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b09:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b09 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b10:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b10 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b11:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b11 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b12:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b12 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b13:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b13 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b14:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b14 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b15:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b15 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b16:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b16 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b17:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b17 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b18:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b18 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.b19:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.b19 \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.mbn \
-    vendor/sony/pdx224/proprietary/vendor/firmware/evass-lt-21.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/evass-lt-21.mdt \
-    vendor/sony/pdx224/proprietary/vendor/firmware/gmu_gen70000.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/gmu_gen70000.bin \
     vendor/sony/pdx224/proprietary/vendor/firmware/touch_module_id_0x49.img:$(TARGET_COPY_OUT_VENDOR)/firmware/touch_module_id_0x49.img \
     vendor/sony/pdx224/proprietary/vendor/firmware/vpu20_1v.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_1v.mbn \
     vendor/sony/pdx224/proprietary/vendor/firmware/vpu20_1v_unsigned.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_1v_unsigned.mbn \
     vendor/sony/pdx224/proprietary/vendor/firmware/vpu20_4v.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_4v.mbn \
     vendor/sony/pdx224/proprietary/vendor/firmware/vpu20_4v_unsigned.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_4v_unsigned.mbn \
-    vendor/sony/pdx224/proprietary/vendor/lib64/camera/com.qti.tuned.default.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.default.bin \
     vendor/sony/pdx224/proprietary/vendor/lib64/camera/com.sony.sensormodule.cresto_imx557.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.sony.sensormodule.cresto_imx557.bin \
     vendor/sony/pdx224/proprietary/vendor/lib64/camera/com.sony.sensormodule.cresto_imx563.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.sony.sensormodule.cresto_imx563.bin \
     vendor/sony/pdx224/proprietary/vendor/lib64/camera/com.sony.sensormodule.cresto_imx650.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.sony.sensormodule.cresto_imx650.bin \
-    vendor/sony/pdx224/proprietary/vendor/lib64/camera/com.sony.sensormodule.crocus_imx663.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.sony.sensormodule.crocus_imx663.bin \
     vendor/sony/pdx224/proprietary/vendor/lib64/camera/com.sony.tuned.cresto_imx557.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.sony.tuned.cresto_imx557.bin \
     vendor/sony/pdx224/proprietary/vendor/lib64/camera/com.sony.tuned.cresto_imx563.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.sony.tuned.cresto_imx563.bin \
-    vendor/sony/pdx224/proprietary/vendor/lib64/camera/com.sony.tuned.cresto_imx650.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.sony.tuned.cresto_imx650.bin \
-    vendor/sony/pdx224/proprietary/vendor/lib64/camera/com.sony.tuned.crocus_imx663.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.sony.tuned.crocus_imx663.bin \
-    vendor/sony/pdx224/proprietary/vendor/lib64/camera/fdconfigpreview.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/fdconfigpreview.bin \
-    vendor/sony/pdx224/proprietary/vendor/lib64/camera/fdconfigpreviewlite.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/fdconfigpreviewlite.bin \
-    vendor/sony/pdx224/proprietary/vendor/lib64/camera/fdconfigvideo.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/fdconfigvideo.bin \
-    vendor/sony/pdx224/proprietary/vendor/lib64/camera/fdconfigvideolite.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/fdconfigvideolite.bin \
-    vendor/sony/pdx224/proprietary/vendor/lib64/camera/imx588.pb:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/imx588.pb
+    vendor/sony/pdx224/proprietary/vendor/lib64/camera/com.sony.tuned.cresto_imx650.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.sony.tuned.cresto_imx650.bin
 
 PRODUCT_PACKAGES += \
-    com.qti.eeprom.gt24p128c2csli_imx766 \
-    com.qti.eeprom.irs2381c_polar \
-    com.qti.eeprom.truly_cmb433 \
-    com.qti.ois.bu63169gwz \
-    com.qti.sensor.imx318 \
-    com.qti.sensor.imx334 \
-    com.qti.sensor.imx362 \
-    com.qti.sensor.imx363 \
-    com.qti.sensor.imx376 \
-    com.qti.sensor.imx386 \
-    com.qti.sensor.imx476 \
-    com.qti.sensor.imx481 \
-    com.qti.sensor.imx519 \
-    com.qti.sensor.imx563 \
-    com.qti.sensor.imx576 \
-    com.qti.sensor.imx577 \
-    com.qti.sensor.imx586 \
-    com.qti.sensor.imx588 \
-    com.qti.sensor.imx686 \
-    com.qti.sensor.imx766 \
-    com.qti.sensor.max7366_6dof \
-    com.qti.sensor.max7366_eyetrack \
-    com.qti.sensor.max7366_ov6211 \
-    com.qti.sensor.max7366_ov9282 \
-    com.qti.sensor.ov12a10 \
-    com.qti.sensor.ov12a10_front \
-    com.qti.sensor.ov13855 \
-    com.qti.sensor.ov13880 \
-    com.qti.sensor.ov6211_master \
-    com.qti.sensor.ov6211_slave \
-    com.qti.sensor.ov7251 \
-    com.qti.sensor.ov8856 \
-    com.qti.sensor.ov8856_master \
-    com.qti.sensor.ov8856_slave \
-    com.qti.sensor.ov9282_master \
-    com.qti.sensor.ov9282_slave \
-    com.qti.sensor.s5k2l7 \
-    com.qti.sensor.s5k2x5sp \
-    com.qti.sensor.s5k33dxx \
-    com.qti.sensor.s5k3m5 \
-    com.qti.sensor.s5k3p9 \
-    com.qti.sensor.s5k4h7 \
-    com.qti.sensor.s5k5e9yu05 \
-    com.qti.sensor.s5k5e9yx04 \
-    com.qti.sensor.s5kjd1sp \
     com.bots.node.vendortagwrite \
     com.qti.camx.chiiqutils \
     com.qti.eisv2 \
@@ -463,8 +305,6 @@ PRODUCT_PACKAGES += \
     com.qtistatic.stats.af \
     com.qtistatic.stats.awb \
     com.qtistatic.stats.pdlib \
-    libdepthmapwrapper \
-    libdepthmapwrapper_secure \
     libexcal_ckb_service_plugin \
     libexcal_color_ctrl_plugin \
     libexcal_debug_display_plugin \
@@ -500,22 +340,6 @@ PRODUCT_PACKAGES += \
     libexcal_snapshot_ctrl_plugin \
     libexcal_splitter_plugin \
     libexcal_stream_ctrl_plugin \
-    camx.device@3.2-impl \
-    camx.device@3.3-impl \
-    camx.device@3.4-ext-impl \
-    camx.device@3.4-impl \
-    camx.device@3.5-ext-impl \
-    camx.device@3.5-impl \
-    camx.device@3.6-ext-impl \
-    camx.device@3.6-impl \
-    camx.device@3.7-impl \
-    camx.provider@2.4-external \
-    camx.provider@2.4-impl \
-    camx.provider@2.4-legacy \
-    camx.provider@2.5-external \
-    camx.provider@2.5-legacy \
-    camx.provider@2.6-legacy \
-    camx.provider@2.7-legacy \
     com.qti.chiusecaseselector \
     com.qti.feature2.anchorsync \
     com.qti.feature2.demux \
@@ -544,29 +368,11 @@ PRODUCT_PACKAGES += \
     com.qti.feature2.statsregeneration \
     com.qti.feature2.stub \
     com.qti.feature2.swmf \
-    com.qti.qseeaon \
-    com.qti.qseeutils \
-    com.qti.stats.common \
-    com.qualcomm.mcx.distortionmapper \
-    com.qualcomm.mcx.linearmapper \
     com.qualcomm.mcx.policy.mfl \
     com.qualcomm.mcx.policy.xr \
     com.qualcomm.qti.mcx.usecase.extension \
     camera.qcom \
     com.qti.chi.override \
-    libSNPE \
-    libaidenoiser \
-    libarcsoft_bokeh_adapter \
-    libarcsoft_dualcam_refocus_image \
-    libarcsoft_dualcam_refocus_video \
-    libarcsoft_hdr_adapter \
-    libarcsoft_high_dynamic_range \
-    libarcsoft_low_light_hdr \
-    libbitmlengine \
-    libbitmlenginev2 \
-    libcamera2ndk_vendor \
-    libcamera_nn_stub \
-    libcamerapostproc \
     libcammw \
     libcammw_util \
     libcamxcommonutils \
@@ -583,109 +389,15 @@ PRODUCT_PACKAGES += \
     libcamxswispiqmodule \
     libcamxswprocessalgo \
     libcamxtintlessalgo \
-    libchilog \
     libcom.qti.chinodeutils \
-    libdepthcomputation \
     libexcal_core \
     libexcal_system \
-    libhdr10plus \
-    libipebpsstriping \
-    libipebpsstriping170 \
-    libipebpsstriping480 \
-    libiu456_datapath_processor \
-    libjpege \
-    libmctfengine_stub \
-    libmfGhostDetection \
-    libmmcamera_bestats \
-    libmmcamera_cac3 \
-    libmmcamera_lscv35 \
-    libmmcamera_mfnr \
-    libmmcamera_mfnr_t4 \
-    libmmcamera_pdpc \
-    libmorpho_single_camera \
-    libmpbase \
-    libnanopb \
-    libopencv \
-    libopencv3a \
-    libopestriping \
-    libos \
-    libqll \
-    libqll10 \
-    libqllengine \
-    libqshcamera \
-    libsfeShiftExtrapolation \
-    libsomc_aerial \
-    libsomc_alfortlpserv \
-    libsomc_angelpie \
-    libsomc_avan \
-    libsomc_buttercake \
-    libsomc_buttercakersc \
-    libsomc_camerahal \
-    libsomc_camerapal \
-    libsomc_cheesescone \
-    libsomc_cheesesconersc \
-    libsomc_chokoballcmn \
-    libsomc_chokoballkeymgr \
     libsomc_chokoballpal \
-    libsomc_cornfrosty \
-    libsomc_dai \
-    libsomc_donutscmnserv \
-    libsomc_drops \
-    libsomc_dropsrsc \
-    libsomc_facewrapper \
-    libsomc_flicker \
-    libsomc_formatconverter \
-    libsomc_formatconverterrsc \
-    libsomc_madeleinebase \
-    libsomc_marble \
-    libsomc_marblersc \
-    libsomc_oshirukoserv \
-    libsomc_parisbrest \
-    libsomc_parisbrestrsc \
-    libsomc_pdnserv \
-    libsomc_pretzchoco \
-    libsomc_pretzchocorsc \
-    libsomc_raisin \
-    libsomc_raisincl \
-    libsomc_raisinclrsc \
-    libsomc_raisinrsc \
-    libsomc_sheera \
-    libsomc_shortcake \
-    libsomc_shortcakersc \
-    libsomc_soda \
-    libsomc_sukonbu \
-    libsomc_sumomo \
-    libsomc_sumomorsc \
-    libsomc_thermal \
-    libsomc_wasabeef \
-    libsomc_yummy \
-    libsomc_yummyrsc \
-    libsomc_zunda \
-    libsony_animaleye \
-    libsony_asr \
-    libsony_cc \
-    libsony_ec \
-    libsony_facestab \
-    libsony_fc \
-    libsony_naruto \
-    libsony_stab \
-    libspectre \
-    libswregistrationalgo \
-    libsynx \
-    libtfestriping \
-    libthreadutils \
-    libubifocus \
-    local_libcamera_metadata \
-    vendor.qti.hardware.camera.aon@1.0-service-impl \
-    vendor.qti.hardware.camera.postproc@1.0-service-impl \
     vendor.somc.camera.device@3.2-impl \
     vendor.somc.camera.device@3.3-impl \
     vendor.somc.camera.device@3.4-impl \
-    vendor.somc.camera.device@3.5-impl \
-    vendor.somc.hardware.camera.provider.manifest.xml \
-    vendor.somc.hardware.camera.provider@1.0-service
+    vendor.somc.camera.device@3.5-impl
 
 PRODUCT_PACKAGES += \
     bdwlan_bdwlan_symlink \
-    bdwlang_bdwlang_symlink \
-    regdb_regdb_symlink
+    bdwlang_bdwlang_symlink
